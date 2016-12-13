@@ -1,6 +1,6 @@
 {
   "name": "pixelperfect-guides",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a lightweight plugin that draws guidelines above the html page",
   "main": "app.js",
   "scripts": {},
